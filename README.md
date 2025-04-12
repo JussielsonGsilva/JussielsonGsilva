@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">-Desenvolvedor FULL STACK<br>/ Analise de Dados/ Conhecimento em  / Power BI/ Python / C / Java / SqlServer / MySql / SqLite / PostgrSql /  Oracle/ css/php/html/</h2>
+<h2 align="left">-Desenvolvedor FULL STACK<br>/ Análise de Dados/ Conhecimento em  / Power BI/ Python / C / Java / SqlServer / MySql / SqLite / PostgrSql /  Oracle/ css/php/html/</h2>
 
 ###
 
