@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">-Desenvolvedor FULL STACK<br>/ Análise de Dados/ Conhecimento em  / Power BI/ Python / C / Java / SqlServer / MySql / SqLite / PostgrSql /  Oracle/ css/php/html/</h2>
+<h2 align="left">-Desenvolvedor FULL STACK<br>/ Analise de Dados/ Conhecimento em  / Power BI/ Python / C / Java / SqlServer / MySql / SqLite / PostgrSql /  Oracle/ css/php/html/</h2>
 
 ###
 
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
